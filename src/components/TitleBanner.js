@@ -14,7 +14,9 @@ class TitleBanner extends Component {
         </div>
 
         <div className="title-logo">
-          <h1>BLACK DOG BARRELS</h1>
+          <p>BLACK</p>
+          <p>DOG</p>
+          <p>BARRELS</p>
         </div>
 
         <div className="banner-button">
